@@ -128,7 +128,7 @@ df["Bankrupt?"].value_counts(normalize=True).plot(kind='bar')
 
 
     
-![png](output_2_1.png)
+![png](./outputs/output_2_1.png)
     
 
 
@@ -154,7 +154,7 @@ df["Bankruptdesc"].value_counts(normalize=True).plot(kind='bar')
 
 
     
-![png](output_4_1.png)
+![png](./outputs/output_4_1.png)
     
 
 
@@ -1610,7 +1610,7 @@ plt.show()
 
 
     
-![png](output_49_0.png)
+![png](./outputs/output_49_0.png)
     
 
 
@@ -1639,7 +1639,7 @@ plt.show()
 
 
     
-![png](output_52_0.png)
+![png](./outputs/output_52_0.png)
     
 
 
@@ -1667,7 +1667,7 @@ plt.show()
 
 
     
-![png](output_54_0.png)
+![png](./outputs/output_54_0.png)
     
 
 
